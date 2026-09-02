@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0905-sort-array-by-parity) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0049-group-anagrams) |
 | [0905-sort-array-by-parity](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -49,4 +51,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
