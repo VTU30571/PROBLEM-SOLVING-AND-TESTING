@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU30571/PROBLEM-SOLVING-AND-TESTING/tree/master/0977-squares-of-a-sorted-array) |
